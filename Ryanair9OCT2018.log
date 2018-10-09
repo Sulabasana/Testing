@@ -1,0 +1,228 @@
+20:15:30.126 Navigated to https://www.ryanair.com/pl/pl/
+20:15:30.530 satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10 A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/20561d9e7a4cb629444c81a32b771b952d25db7b/scripts/satellite-5a0ebac564746d0bc600a546.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+loadScriptSync @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+loadBlockingScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+each @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+$loadBlockingScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+triggerCommand @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+i @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.execute @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.fireRule @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.firePageLoadEvent @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.pageBottom @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ (index):588
+20:15:30.533 satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10 A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/20561d9e7a4cb629444c81a32b771b952d25db7b/scripts/satellite-5a0ebac564746d0bc600a546.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+loadScriptSync @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+loadBlockingScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+each @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+$loadBlockingScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+triggerCommand @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+i @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.execute @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.fireRule @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.firePageLoadEvent @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.pageBottom @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ (index):588
+20:15:30.543 satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10 A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/20561d9e7a4cb629444c81a32b771b952d25db7b/scripts/satellite-5717dd3764746d3e72000c13.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+loadScriptSync @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+loadBlockingScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+each @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+$loadBlockingScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+triggerCommand @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+i @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.execute @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.fireRule @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.firePageLoadEvent @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.pageBottom @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ (index):588
+20:15:30.616 satellite-5717dd3764746d3e72000c13.js:443 {globalMboxName: "global-mbox", debug: false, globalMboxAutoHide: "disabled", excludedURLs: Array(6), customMboxes: Array(3)}
+20:15:30.620 satellite-5717dd3764746d3e72000c13.js:445 {globalMboxName: "global-mbox", globalMboxTimeout: 5000, globalMboxAutoHide: "disabled", autoCreateMboxOnURLChange: true, legacyIESupport: "", …}
+20:15:30.961 (index):1 chrome.webstore.install is deprecated. See https://blog.chromium.org/2018/06/improving-extension-transparency-for.html for more details.
+20:15:30.964 (index):1 chrome.webstore.install is deprecated. See https://blog.chromium.org/2018/06/improving-extension-transparency-for.html for more details.
+20:15:31.204 (index):1 Failed to load https://news.ryanair.com/en/ryanair-ops-page/: Response to preflight request doesn't pass access control check: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. Origin 'https://www.ryanair.com' is therefore not allowed access. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
+20:15:31.216 (index):1 Failed to load https://news.ryanair.com/en/ryanair-ops-page/: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. Origin 'https://www.ryanair.com' is therefore not allowed access. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
+20:15:31.240 (index):1 Failed to load https://news.ryanair.com/en/ryanair-ops-page/: Response to preflight request doesn't pass access control check: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. Origin 'https://www.ryanair.com' is therefore not allowed access. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
+20:15:31.383 (index):1 Failed to load https://news.ryanair.com/en/ryanair-ops-page/: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. Origin 'https://www.ryanair.com' is therefore not allowed access. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
+20:15:31.504 (index):1 Failed to load https://news.ryanair.com/en/ryanair-ops-page/: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. Origin 'https://www.ryanair.com' is therefore not allowed access. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
+20:15:31.749 (index):1 Failed to load https://news.ryanair.com/en/ryanair-ops-page/: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. Origin 'https://www.ryanair.com' is therefore not allowed access. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute.
+20:15:44.652 widget.criteo.com/event?a=24997&rt=gif&v=4.5.0&p0=e%3Dce%26m%3D%255B%255D&p1=e%3Dexd%26site_type%3Dd&p2=e%3Dvh&p3=e%3Ddis&adce=1:1 GET https://widget.criteo.com/event?a=24997&rt=gif&v=4.5.0&p0=e%3Dce%26m%3D%255B%255D&p1=e%3Dexd%26site_type%3Dd&p2=e%3Dvh&p3=e%3Ddis&adce=1 net::ERR_CONNECTION_TIMED_OUT
+Image (async)
+nrWrapper @ newrelic.js:1
+(anonymous) @ satellite-570f721b64746d08aa005d75.js:33
+(anonymous) @ satellite-570f721b64746d08aa005d75.js:91
+r @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+r @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+onload.t.onload @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+load (async)
+scriptOnLoad @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+loadScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+r @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+loadScripts @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+$loadScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+triggerCommand @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+i @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.execute @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.fireRule @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+each @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.handleEvent @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.onEvent.t.querySelectorAll.I @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+nrWrapper @ newrelic.js:1
+(anonymous) @ satellite-5849663c64746d675c00ae7a.js:1034
+nrWrapper @ newrelic.js:1
+setTimeout (async)
+nrWrapper @ newrelic.js:1
+(anonymous) @ satellite-5849663c64746d675c00ae7a.js:1033
+nrWrapper @ newrelic.js:1
+(anonymous) @ frontend-f19d82e3f6.js:18
+(anonymous) @ angular.js:20821
+e @ angular.js:6439
+(anonymous) @ angular.js:6718
+nrWrapper @ newrelic.js:1
+setTimeout (async)
+nrWrapper @ newrelic.js:1
+h.defer @ angular.js:6716
+f @ angular.js:20819
+(anonymous) @ frontend-f19d82e3f6.js:18
+$broadcast @ angular.js:19123
+(anonymous) @ angular-ui-router.min.js:7
+(anonymous) @ angular.js:17330
+$digest @ angular.js:18515
+$apply @ angular.js:18903
+(anonymous) @ angular.js:19207
+e @ angular.js:6439
+(anonymous) @ angular.js:6718
+nrWrapper @ newrelic.js:1
+setTimeout (async)
+nrWrapper @ newrelic.js:1
+h.defer @ angular.js:6716
+A @ angular.js:19206
+$applyAsync @ angular.js:18935
+k @ angular.js:12772
+s @ angular.js:13032
+w.onerror @ angular.js:12948
+nrWrapper @ newrelic.js:1
+error (async)
+f @ newrelic.js:1
+o @ newrelic.js:1
+nrWrapper @ newrelic.js:1
+XMLHttpRequest.send (async)
+nrWrapper @ newrelic.js:1
+(anonymous) @ angular.js:12994
+B @ angular.js:12720
+(anonymous) @ angular.js:12461
+(anonymous) @ angular.js:17330
+$digest @ angular.js:18515
+$apply @ angular.js:18903
+(anonymous) @ cookie-popup.utils.ts:7
+(anonymous) @ cookie-popup.utils.ts:7
+u.on @ cookie-popup.utils.ts:7
+u.onPhone @ cookie-popup.utils.ts:7
+(anonymous) @ frontend-f19d82e3f6.js:18
+invoke @ angular.js:5117
+(anonymous) @ angular.js:4914
+q @ angular.js:418
+gb @ angular.js:4914
+c @ angular.js:1965
+Wc @ angular.js:1986
+ye @ angular.js:1871
+(anonymous) @ angular.js:34875
+b @ angular.js:3499
+nrWrapper @ newrelic.js:1
+20:15:44.754 adfarm.mediaplex.com/ad/bk/30793-223987-3840-0?pl_Homepage=1&mpuid=15391089312990:1 GET https://adfarm.mediaplex.com/ad/bk/30793-223987-3840-0?pl_Homepage=1&mpuid=15391089312990 net::ERR_CONNECTION_TIMED_OUT
+Image (async)
+nrWrapper @ newrelic.js:1
+(anonymous) @ satellite-570f721b64746d08aa005d75.js:89
+(anonymous) @ satellite-570f721b64746d08aa005d75.js:91
+r @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+r @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+onload.t.onload @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+load (async)
+scriptOnLoad @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+loadScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+r @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+loadScripts @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+$loadScript @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:11
+triggerCommand @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+i @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.execute @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.fireRule @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+(anonymous) @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+each @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.handleEvent @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+E.onEvent.t.querySelectorAll.I @ satelliteLib-62d5460876b7ac82236dfa3efb99cf128be6e1d8.js:10
+nrWrapper @ newrelic.js:1
+(anonymous) @ satellite-5849663c64746d675c00ae7a.js:1034
+nrWrapper @ newrelic.js:1
+setTimeout (async)
+nrWrapper @ newrelic.js:1
+(anonymous) @ satellite-5849663c64746d675c00ae7a.js:1033
+nrWrapper @ newrelic.js:1
+(anonymous) @ frontend-f19d82e3f6.js:18
+(anonymous) @ angular.js:20821
+e @ angular.js:6439
+(anonymous) @ angular.js:6718
+nrWrapper @ newrelic.js:1
+setTimeout (async)
+nrWrapper @ newrelic.js:1
+h.defer @ angular.js:6716
+f @ angular.js:20819
+(anonymous) @ frontend-f19d82e3f6.js:18
+$broadcast @ angular.js:19123
+(anonymous) @ angular-ui-router.min.js:7
+(anonymous) @ angular.js:17330
+$digest @ angular.js:18515
+$apply @ angular.js:18903
+(anonymous) @ angular.js:19207
+e @ angular.js:6439
+(anonymous) @ angular.js:6718
+nrWrapper @ newrelic.js:1
+setTimeout (async)
+nrWrapper @ newrelic.js:1
+h.defer @ angular.js:6716
+A @ angular.js:19206
+$applyAsync @ angular.js:18935
+k @ angular.js:12772
+s @ angular.js:13032
+w.onerror @ angular.js:12948
+nrWrapper @ newrelic.js:1
+error (async)
+f @ newrelic.js:1
+o @ newrelic.js:1
+nrWrapper @ newrelic.js:1
+XMLHttpRequest.send (async)
+nrWrapper @ newrelic.js:1
+(anonymous) @ angular.js:12994
+B @ angular.js:12720
+(anonymous) @ angular.js:12461
+(anonymous) @ angular.js:17330
+$digest @ angular.js:18515
+$apply @ angular.js:18903
+(anonymous) @ cookie-popup.utils.ts:7
+(anonymous) @ cookie-popup.utils.ts:7
+u.on @ cookie-popup.utils.ts:7
+u.onPhone @ cookie-popup.utils.ts:7
+(anonymous) @ frontend-f19d82e3f6.js:18
+invoke @ angular.js:5117
+(anonymous) @ angular.js:4914
+q @ angular.js:418
+gb @ angular.js:4914
+c @ angular.js:1965
+Wc @ angular.js:1986
+ye @ angular.js:1871
+(anonymous) @ angular.js:34875
+b @ angular.js:3499
+nrWrapper @ newrelic.js:1
